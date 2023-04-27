@@ -1,5 +1,7 @@
 ### Hi there 👋
-### Muhammad Daniyal
+#### Muhammad Daniyal
+- 🔭 I’m currently working on LARAVEL Development
+- 🌱 I’m currently learning MERN
 - 📫 How to reach me: mr.dannii98@gmail.com
 <!--
 **mrdannii/mrdannii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
