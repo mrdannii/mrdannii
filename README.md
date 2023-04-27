@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### Muhammad Daniyal
+- 📫 How to reach me: mr.dannii98@gmail.com
 <!--
 **mrdannii/mrdannii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
