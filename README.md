@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### Muhammad Daniyal
 - 🔭 I’m currently working on React/NEXT JS
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning JavaScripts Framworks
 - 📫 How to reach me: mr.dannii98@gmail.com
 
 
